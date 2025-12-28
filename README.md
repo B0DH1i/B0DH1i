@@ -90,19 +90,7 @@ I'm a passionate developer exploring the intersection of **Blockchain Technology
 - **Computer Vision Pipeline** - Object detection and classification system
 - **Chatbot Framework** - Multi-domain conversational AI platform
 
-## 🌐 Testnet Contributions
 
-<div align="center">
-
-| Network | Role | Status | Contribution |
-|---------|------|--------|--------------|
-| 🟣 **Ethereum 2.0** | Validator | Active | Beacon chain validation |
-| 🔵 **Polygon** | Node Operator | Active | Network security |
-| 🟠 **Solana** | RPC Provider | Active | Infrastructure support |
-| ⚫ **Cosmos Hub** | Validator | Active | IBC protocol testing |
-| 🔴 **Arbitrum** | Sequencer | Testing | L2 scaling solutions |
-
-</div>
 
 ## 📚 Learning Journey
 
