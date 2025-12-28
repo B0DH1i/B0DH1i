@@ -170,13 +170,6 @@ graph LR
 - 📖 **Learning**: Zero-knowledge proofs and privacy-preserving ML
 - 🌱 **Growing**: Open-source contributions to blockchain and AI communities
 
-## 🎯 2024 Goals
-
-- [ ] Launch a production DeFi protocol
-- [ ] Contribute to major blockchain testnets
-- [ ] Publish AI/ML research papers
-- [ ] Build an AI-powered trading bot
-- [ ] Mentor newcomers in blockchain development
 
 ---
 
