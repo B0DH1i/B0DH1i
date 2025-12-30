@@ -73,13 +73,13 @@ I'm a passionate developer exploring the intersection of **Blockchain Technology
 
 | **GitHub Metrics** | **Top Languages** |
 | :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B0DH1i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0DH1i&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B0DH1i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_id=2025_update" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0DH1i&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_id=2025_update" /> |
 
 <br />
 
 | **Commit Streak** |
 | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=B0DH1i&theme=tokyonight&hide_border=true" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=B0DH1i&theme=tokyonight&hide_border=true&cache_id=2025_update" /> |
 
 </div>
 
