@@ -11,7 +11,7 @@
 I'm a passionate developer exploring the intersection of **Blockchain Technology** and **Artificial Intelligence**. My journey spans across decentralized systems, machine learning, and cutting-edge AI applications.
 
 - 🔗 **Blockchain Enthusiast**: Active testnet node operator and aspiring blockchain developer
-- 🤖 **AI/ML Focus**: Specializing in NLP, Computer Vision, and Neural Networks
+- 🤖 **AI/ML Focus**: Currently working on NLP, Computer Vision, and Neural Networks
 - 🌱 **Currently Learning**: Advanced smart contract development, DeFi protocols, and transformer architectures
 - 💡 **Vision**: Building the future where AI meets decentralized technology
 - 📫 **Reach me**: [Telegram - @Boddhii](https://t.me/Boddhii)
@@ -85,10 +85,9 @@ I'm a passionate developer exploring the intersection of **Blockchain Technology
 - **DAO Governance** - Decentralized voting and proposal management system
 
 ### 🤖 AI/ML Projects
-- **ReAct Agent System** - Autonomous reasoning agent with tool integration
-- **NLP Sentiment Analyzer** - Real-time social media sentiment tracking
-- **Computer Vision Pipeline** - Object detection and classification system
-- **Chatbot Framework** - Multi-domain conversational AI platform
+- **ReAct Agent System** - A ReAct-based system capable of independent decision-making and tool integration for mental well-being.
+- **Multimodal Emotion Recognition** -  A dual-channel pipeline that analyzes emotional states using NLP (textual sentiment) and Computer Vision (camera-based facial analysis).
+- **Adaptive Frequency Therapy System** - An AI-driven engine that recommends specific audio frequencies/binaural beats based on the user's real-time emotional data to improve mental state
 
 
 
@@ -145,18 +144,27 @@ graph LR
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Boddhii)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B0DH1i)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 </div>
 
 ## 💡 What I'm Working On
 
-- 🔬 **Research**: AI-powered smart contract auditing tools
-- 🏗️ **Building**: Cross-chain DeFi protocol with ML-based risk assessment
-- 📖 **Learning**: Zero-knowledge proofs and privacy-preserving ML
-- 🌱 **Growing**: Open-source contributions to blockchain and AI communities
+  Actively exploring and implementing multimodal AI systems and affective computing.
+
+**- Autonomous Reasoning Agent System** – Developing a ReAct-based architecture capable of independent decision-making and tool-use for complex tasks.
+
+**- Multimodal Emotion Recognition Pipeline** – A dual-channel system that analyzes emotional states by fusing Computer Vision (facial cues) and NLP (textual sentiment).
+
+**- Adaptive Audio Therapy Engin**e – An AI-driven recommendation engine that suggests specific binaural frequencies based on real-time emotional data to assist in stress management.
+
+**- Intelligent Chatbot Framework** – Building a unified conversational platform that integrates visual feedback and therapeutic logic for personalized user interactions.
+
+**⛓️ Web3 & Blockchain (Established Projects)**
+Experience in building and deploying decentralized infrastructure.
+
+**- Cross-Chain Swap & Bridge Platform** – Developed an interoperability-focused platform enabling seamless asset transfers and swaps across multiple blockchain networks.
+
+**- DeFi Infrastructure** – Built decentralized finance solutions focused on secure liquidity management and smart contract efficiency.
 
 
 ---
